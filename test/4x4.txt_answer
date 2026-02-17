@@ -1,0 +1,10 @@
+Solution
+====
+A # A B
+A A A #
+# C A B
+C B # B
+====
+
+Total iterations: 115
+Duration: 0.0002 seconds

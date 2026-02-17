@@ -1,0 +1,11 @@
+Solution
+=====
+A # B B C
+A A B # C
+# D E E C
+D D # E C
+A A D D #
+=====
+
+Total iterations: 1015
+Duration: 0.0016 seconds

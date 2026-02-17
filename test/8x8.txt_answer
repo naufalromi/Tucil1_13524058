@@ -1,0 +1,14 @@
+Solution
+========
+# B C C C C C C
+B B # D E E C C
+F B D D E E # C
+F D D E # E E C
+F # E E E E E C
+F E E # E E G C
+F E E F E # G G
+F F F F F F G #
+========
+
+Total iterations: 738032
+Duration: 0.9083 seconds
