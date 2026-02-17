@@ -42,7 +42,7 @@ if len(region) != N:
 
 update = input("Enter how long each update in n-th iteration (0 for none): ")
 try:
-    update = int(update) / 1000
+    update = int(update)
     if update < 0: update = 0
 except ValueError:
     update = 0
