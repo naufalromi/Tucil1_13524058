@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-This project is an assignment for the **IF2211 Strategi Algoritma** course. The purpose of this assignment is to deepen our understanding of** brute-force algorithms **in problem-solving by implementing and analyzing their effectiveness in various scenarios. Through this project, we explore the strengths and limitations of brute-force approaches, gaining insights into their practical applications and computational complexity.
+This project is an assignment for the **IF2211 Strategi Algoritma** course. The purpose of this assignment is to deepen our understanding of brute-force algorithms in problem-solving by implementing and analyzing their effectiveness in various scenarios. Through this project, we explore the strengths and limitations of brute-force approaches, gaining insights into their practical applications and computational complexity.
 
 ---
 
@@ -26,15 +26,12 @@ This project is an assignment for the **IF2211 Strategi Algoritma** course. The 
 ## Other
 | No | Points | Yes | No |
 | --- | --- | --- | --- |
-| 1 | Program berhasil dikompilasi tanpa kesalahan  | ✔️ | |
+| 1 | Program berhasil dikompilasi tanpa kesalahan  | ✔️ |  |
 | 2 | Program berhasil dijalankan | ✔️ | |
 | 3 | Solusi yang diberikan program benar dan mematuhi aturan permainan | ✔️ | |
 | 4 | Program dapat membaca masukan berkas .txt serta menyimpan solusi dalam berkas .txt | ✔️ | |
-| 5 | Program memiliki Graphical User Interface (GUI) |  | ✔️|
-| 6 | Program dapat menyimpan solusi dalam bentuk file gambar | ✔️ | |
-| 7 | Program dapat menyelesaikan kasus konfigurasi custom |✔️|  |
-| 8 | Program dapat menyelesaikan kasus konfigurasi Piramida (3D) | | ✔️ |
-| 9 | Program dibuat oleh saya sendiri | ✔️ | |
+| 5 | Program memiliki Graphical User Interface (GUI) |  | ✔️ |
+| 6 | Program dapat menyimpan solusi dalam bentuk file gambar |  | ✔️ |
 
 <br/>
 <br/>
