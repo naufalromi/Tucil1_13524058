@@ -127,7 +127,7 @@ duration = time.time() - start
 
 if grid_solution:
     solution = "Solution\n"
-    solution += "="*N + "\n"
+    solution += "="*N*2 + "\n"
     for r in range(N):
         row = ""
         for c in range(N):
